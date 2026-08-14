@@ -1,0 +1,107 @@
+{
+  "dataset": "plumspectra_analysis_ready.parquet",
+  "rows": 4853,
+  "columns": [
+    {
+      "name": "sample_id",
+      "dtype": "str"
+    },
+    {
+      "name": "batch_id",
+      "dtype": "str"
+    },
+    {
+      "name": "cultivar_code",
+      "dtype": "str"
+    },
+    {
+      "name": "cultivar_ascii",
+      "dtype": "str"
+    },
+    {
+      "name": "outer_fold",
+      "dtype": "int64"
+    },
+    {
+      "name": "fruit_weight_g",
+      "dtype": "float64"
+    },
+    {
+      "name": "soluble_solids_pct",
+      "dtype": "float64"
+    },
+    {
+      "name": "ph",
+      "dtype": "float64"
+    },
+    {
+      "name": "skin_break_force_g_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "skin_break_displacement_raw_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "skin_break_drop_g_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "flesh_force_mean_g_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "force_at_6_rawpos_g_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "loading_stiffness_g_per_rawpos_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "loading_work_g_rawpos_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "post_break_work_g_rawpos_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "adhesive_force_g_mean",
+      "dtype": "float64"
+    },
+    {
+      "name": "qc_analysis_include",
+      "dtype": "object"
+    },
+    {
+      "name": "qc_primary_include",
+      "dtype": "object"
+    },
+    {
+      "name": "qc_sensitivity_include",
+      "dtype": "object"
+    },
+    {
+      "name": "qc_reason",
+      "dtype": "str"
+    },
+    {
+      "name": "qc_version",
+      "dtype": "str"
+    },
+    {
+      "name": "wavelength_nm",
+      "dtype": "object"
+    },
+    {
+      "name": "absorbance_au",
+      "dtype": "object"
+    }
+  ],
+  "array_contract": {
+    "wavelength_nm": 228,
+    "absorbance_au": 228
+  },
+  "sample_unit": "one fruit"
+}

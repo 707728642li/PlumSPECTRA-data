@@ -1,0 +1,16 @@
+﻿sample_id,cultivar_ascii,batch_id,reasons,primary_nir_included,primary_multitask_included
+A181_B01-0251,A181,A181_B01,invalid_or_missing_fruit_weight_g,false,false
+L31_A96_B01-0021,L31,L31_A96_B01,fewer_than_two_valid_texture_replicates,true,false
+WD_B01-0724,Weidi,WD_B01,invalid_or_missing_ph,false,false
+KLD_B01-0040,Konglongdan,KLD_B01,invalid_or_missing_soluble_solids_pct,false,false
+KLD_B01-0132,Konglongdan,KLD_B01,invalid_or_missing_soluble_solids_pct,false,false
+KLD_B02-0203,Konglongdan,KLD_B02,invalid_or_missing_ph,false,false
+KLD_B02-0209,Konglongdan,KLD_B02,invalid_or_missing_ph,false,false
+KLD_B02-0311,Konglongdan,KLD_B02,invalid_or_missing_fruit_weight_g,false,false
+FRL_B01-0173,Furongli,FRL_B01,invalid_or_missing_ph,false,false
+FRL_B01-0228,Furongli,FRL_B01,invalid_or_missing_ph,false,false
+CHL_A185_B01-0093,Cuihongli,CHL_A185_B01,invalid_or_missing_soluble_solids_pct,false,false
+WX_B01-0143,Weixin,WX_B01,invalid_nir_c,false,false
+WJ_B01-0141,Weijin,WJ_B01,invalid_or_missing_fruit_weight_g,false,false
+WJ_B01-0237,Weijin,WJ_B01,invalid_or_missing_soluble_solids_pct,false,false
+WJ_B01-0286,Weijin,WJ_B01,invalid_or_missing_ph,false,false
