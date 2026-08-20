@@ -11,28 +11,28 @@
       "sha256": "d1f4168028fafb8812bfa9d75ed17136e655cbc1b6ab7bd861029ba18a7a9bae"
     },
     "CITATION.cff": {
-      "bytes": 499,
-      "sha256": "d214d90598e3e447428a9e1c1fe04c513ee8f560bfd13ff92f79b53926be6d52"
+      "bytes": 515,
+      "sha256": "106f852afd0b6c719e3f11ef9585965405175bcbfcfc49482c2262e3706b0b65"
     },
     "DATA_CARD.md": {
-      "bytes": 1337,
-      "sha256": "5b2acd9bfa6d15e87b9e3380dab97b106abe8317843981940ee6c0b385b49213"
+      "bytes": 1369,
+      "sha256": "67105f6acdaeaeece14bee96fa16dd83c6f030d47bb9083d49ee2d9f64831b9c"
     },
     "LICENSE": {
-      "bytes": 431,
-      "sha256": "bdfd327b92a9fe9b70ff066ee6b5d3e9e795ed79faa0dc6012773e5e724ceaac"
+      "bytes": 444,
+      "sha256": "1c80c2beaeffe1b0ac65acd1dfc6cfb079ac4c30cf78f37e7fc78aee8a5c5c84"
     },
     "README.md": {
       "bytes": 1306,
-      "sha256": "d140423079db5a7787e401f60e2fd793128bbb238f9e0d771b8f90b23b8dafbd"
+      "sha256": "c75d4126d44a38c2ef7f6300e4481af36627fcbb53c99367a4b311ea86b0854b"
     },
     "RELEASE_READINESS.md": {
       "bytes": 321,
       "sha256": "1e6ac7a10f2cf9ef30b6c25e63287a5661bedd8643ee0140a057ddd62348c627"
     },
     "SECURITY.md": {
-      "bytes": 370,
-      "sha256": "8c0be1c1fe3a79096f16143a7c28e77b1ed766934dd03ec37f6019946b021d8e"
+      "bytes": 380,
+      "sha256": "56ddf40bfebe23c6b759e6d748fa6ca7cf75e8c3d3cdbe82189bfc28c514187c"
     },
     "data/analysis_exclusions.csv": {
       "bytes": 1184,

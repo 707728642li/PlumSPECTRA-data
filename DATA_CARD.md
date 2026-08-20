@@ -28,5 +28,6 @@ codes for breeding selections are not botanical variety names.
 
 ## Access and license
 
-Private review only. Public redistribution and reuse terms are pending author and
-institutional review. The data contain no human-subject or personal information.
+The analysis-ready release candidate is publicly accessible. Redistribution and
+reuse terms remain pending author and institutional review. The data contain no
+human-subject or personal information.
