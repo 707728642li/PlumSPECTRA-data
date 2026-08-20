@@ -1,9 +1,13 @@
 
 # PlumSPECTRA data
 
-Private peer-review dataset for the PlumSPECTRA manuscript. It contains one path-free
+Public analysis-ready dataset for the PlumSPECTRA study. It contains one path-free
 analysis row per retained fruit, the 228-band absorbance vector, twelve observed
 targets, the frozen outer fold and the full out-of-fold prediction ledger.
+
+## Study design and retained cohort
+
+![Figure 1. Study design and retained cohort](docs/Figure_1.png)
 
 ## Files
 
@@ -11,10 +15,12 @@ targets, the frozen outer fold and the full out-of-fold prediction ledger.
 - `data/oof_predictions.parquet`: 58,206 fruit-trait predictions.
 - `data/sample_fold_manifest.csv`: one frozen outer-fold assignment per retained fruit.
 - `data/analysis_exclusions.csv`: model-independent source-ledger exclusions.
+- `docs/Figure_1.png`: authorised study-design and retained-cohort figure.
 - `registries/`: cultivar and endpoint definitions.
 - `schemas/`: machine-readable column and dtype descriptions.
 
 Raw ARC texture archives and original instrument exports are not stored in Git. The
 analysis-ready representation retains the quantitative values needed for the reported
-models while removing workstation paths. Redistribution rights and the final public
+models while removing workstation paths. Figure 1 is the only manuscript-derived
+figure authorised for this repository. Redistribution rights and the final public
 data license remain pending institutional confirmation.

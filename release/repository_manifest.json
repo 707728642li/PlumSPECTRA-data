@@ -3,16 +3,36 @@
   "version": "1.0.0-rc.1",
   "files": {
     ".gitattributes": {
-      "bytes": 96,
-      "sha256": "208345aede3a0d060736c2377517655b99e7ce4cc1287b332b352ff341780ecc"
+      "bytes": 103,
+      "sha256": "d69aeb73e3b903900b53cd58f1a979ef5f20ae653a1e0c06d06a0309f080653f"
     },
     ".gitignore": {
-      "bytes": 173,
-      "sha256": "d2c459989c28dcf9555e66ef1e2723eae260be45bf637caac6a7dbba0fd8ed8e"
+      "bytes": 194,
+      "sha256": "d1f4168028fafb8812bfa9d75ed17136e655cbc1b6ab7bd861029ba18a7a9bae"
     },
     "CITATION.cff": {
-      "bytes": 488,
-      "sha256": "9ca563fa472278ddd0ff2fc1f5e8b4d735de30b009c0a1b34abef265dd074888"
+      "bytes": 499,
+      "sha256": "d214d90598e3e447428a9e1c1fe04c513ee8f560bfd13ff92f79b53926be6d52"
+    },
+    "DATA_CARD.md": {
+      "bytes": 1337,
+      "sha256": "5b2acd9bfa6d15e87b9e3380dab97b106abe8317843981940ee6c0b385b49213"
+    },
+    "LICENSE": {
+      "bytes": 431,
+      "sha256": "bdfd327b92a9fe9b70ff066ee6b5d3e9e795ed79faa0dc6012773e5e724ceaac"
+    },
+    "README.md": {
+      "bytes": 1306,
+      "sha256": "d140423079db5a7787e401f60e2fd793128bbb238f9e0d771b8f90b23b8dafbd"
+    },
+    "RELEASE_READINESS.md": {
+      "bytes": 321,
+      "sha256": "1e6ac7a10f2cf9ef30b6c25e63287a5661bedd8643ee0140a057ddd62348c627"
+    },
+    "SECURITY.md": {
+      "bytes": 370,
+      "sha256": "8c0be1c1fe3a79096f16143a7c28e77b1ed766934dd03ec37f6019946b021d8e"
     },
     "data/analysis_exclusions.csv": {
       "bytes": 1184,
@@ -34,37 +54,21 @@
       "bytes": 146277,
       "sha256": "6074eb7afca008cb2ba276a746a0b7e03cf9ecd507ccce9f00db60681b753467"
     },
-    "DATA_CARD.md": {
-      "bytes": 1305,
-      "sha256": "0d20631ba3095702dd72e5a882041ec10d749b3cee0c4af8cfe2157e3f8839a7"
-    },
-    "LICENSE": {
-      "bytes": 423,
-      "sha256": "91ce7f1006f7de68949d0eb18914f9271eadafe01568790b5afebc30768be8c9"
-    },
-    "README.md": {
-      "bytes": 1045,
-      "sha256": "22736fb76fb296f89cbbe617c4db0ad68f1dde9b2c36341c9be13f796bb2e6ee"
+    "docs/Figure_1.png": {
+      "bytes": 3762196,
+      "sha256": "9919a8908bad4b0dbdb7c850abb67c150663e63b2c8f46e1f2d635ab9e43711b"
     },
     "registries/cultivar_registry.csv": {
-      "bytes": 966,
-      "sha256": "1ec0853880d9a064540de0a31de01fe0e3381de3bbbbed70e86ecaf81acc3758"
+      "bytes": 983,
+      "sha256": "3fd6e7c0f769affdb0dc0d5efce34d51100dec582ab745eb031fd994844053db"
     },
     "registries/trait_registry.csv": {
-      "bytes": 1259,
-      "sha256": "1c417e93bd2acab8a7b40386f3731d2db0be93082a991830446ce9aa6542783d"
-    },
-    "RELEASE_READINESS.md": {
-      "bytes": 313,
-      "sha256": "531fecfdb353f2da4efdcb309ec32f40bc150a7e98e735ea8f84bc45ccc35a6c"
+      "bytes": 1275,
+      "sha256": "dd5e131584efddfa58695dc2ca3d3c4fe5f94de8566224527fde02d7128f207a"
     },
     "schemas/analysis_ready_schema.json": {
-      "bytes": 1937,
-      "sha256": "f869e10dc8047e37048b4fad29e116ce89af1d254cc4a63b88d7ea21702eec1b"
-    },
-    "SECURITY.md": {
-      "bytes": 362,
-      "sha256": "d641e512feedeccd8d3fc90f6cc9a728d0203107dcf7bab4a59fd1fbfa5a3a27"
+      "bytes": 2044,
+      "sha256": "85a48d551279742bafca178365b871fc043ba3e42bc5ade341f50862f4ffe33a"
     }
   }
 }
